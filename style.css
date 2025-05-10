@@ -1,17 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 h1{
     text-align:center;
     color: rgb(62, 15, 105);
     font-size: 50px;
-  font-family: "Rubik Bubbles", system-ui;
+ font-family: "Orelega One", serif;
 }
 body{
-    background-color: rgb(75, 167, 233);
-   font-family: "Rubik Wet Paint", system-ui;
+    background-color: rgb(37, 103, 151);
+  font-family: "Balsamiq Sans", sans-serif;
 }
 .gg{
-    color: rgb(207, 67, 67);
+    color: rgb(154, 30, 30);
     font-size: 23px;
 }
 img{
@@ -54,7 +54,7 @@ background: url(https://i.postimg.cc/d1ft2PKV/Flux-Dev-Create-a-whimsical-dark-f
     
 .gg-2{
     font-size: 33px;
-    color: lightgreen;
+    color: rgb(91, 9, 16);
 }
 .kk-3{
     background: url(https://i.postimg.cc/02XxHBHb/Flux-Dev-A-serene-landscape-depicting-the-wind-on-mountains-wi-1-1.jpg) no-repeat center center / cover;
@@ -83,7 +83,7 @@ background: linear-gradient(0deg,rgba(195, 34, 34, 1) 19%, rgba(253, 187, 45, 1)
 }
 .q{
     font-size: 40px;
-    color: purple;
+    color: rgb(89, 45, 91);
     text-align: center;
 }
 .kk-6{
@@ -94,7 +94,7 @@ background: linear-gradient(0deg,rgba(195, 34, 34, 1) 19%, rgba(253, 187, 45, 1)
 .xx{
     font-size: 35px;
     text-align: center;
-    color: red;
+    color: rgb(167, 87, 12);
 }
 .kk-7{
     background: url(https://cdn.leonardo.ai/users/7ef954d2-a2dd-4e04-9612-a38dafa9f034/generations/3831a24c-6ae0-497b-8c2b-2fa51dae149d/segments/1:4:1/Flux_Dev_Create_a_photograph_of_a_benevolent_gods_totem_pole_s_0.jpg) no-repeat center center / cover;
@@ -102,7 +102,7 @@ background: linear-gradient(0deg,rgba(195, 34, 34, 1) 19%, rgba(253, 187, 45, 1)
 }
 .jj{
     font-size: 45px;
-    color: rgba(186, 75, 27, 0.907);
+    color: rgba(91, 50, 9, 0.907);
 }
 .kk-8{
     background: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkzeXF6a3N1NXA2dHlsdHBranVuY2gzd2puczBscnhmZ2ZhY3Z6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0pPx015QeAOSPNQZNE/giphy.webp) no-repeat center center / cover;
