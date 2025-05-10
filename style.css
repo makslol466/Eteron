@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+h1{
+    text-align:center;
+    color: rgb(62, 15, 105);
+    font-size: 50px;
+  font-family: "Rubik Bubbles", system-ui;
+}
+body{
+    background-color: rgb(75, 167, 233);
+   font-family: "Rubik Wet Paint", system-ui;
+}
+.gg{
+    color: rgb(207, 67, 67);
+    font-size: 23px;
+}
+img{
+    width: 380px;
+    height: 350px;
+}
+td{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+}
+p{
+    font-size: 23px;
+    color: rgb(15, 74, 49);
+}
+.ice{
+    width: 500px;
+    height: 210px;
+}
+.io{
+    width: 280px;
+    height: 300px;
+}
+.ww{
+    background: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJzZmo4bXE2dnY5eHl1YzVibmRnNW9tdm1tNWp4czl3NWd5YW44NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xukSYY4HDA7lEk/giphy.gif) no-repeat center center / cover;
+   max-height: 100vh; 
+}
+.kk-1{
+background: url(https://i.postimg.cc/d1ft2PKV/Flux-Dev-Create-a-whimsical-dark-forest-background-with-twiste-0-1.jpg) no-repeat center center / cover;
+   max-height: 300vh;
+   min-width: 180vh;
+   height: 450px;
+   padding: 40px ;
+}
+.kk-2{
+    background: url(https://i.postimg.cc/nz065scq/Flux-Dev-A-mystical-and-ominous-dark-forest-serves-as-the-back-0.jpg) no-repeat center center / cover;
+    min-height: 100vh;
+    }
+
+    
+.gg-2{
+    font-size: 33px;
+    color: lightgreen;
+}
+.kk-3{
+    background: url(https://i.postimg.cc/02XxHBHb/Flux-Dev-A-serene-landscape-depicting-the-wind-on-mountains-wi-1-1.jpg) no-repeat center center / cover;
+    min-height: 100vh;
+}
+.dd-1{
+    font-size: 22px ;
+    text-align: none;
+  background: #c32222;
+background: linear-gradient(0deg,rgba(195, 34, 34, 1) 19%, rgba(253, 187, 45, 1) 80%);
+    padding: 10px;
+    border-radius: 10px;
+}
+.rr-1{
+    font-size: 43px;
+    color: brown;
+    text-align: center;
+}
+.kk-4{
+    background: url(https://i.postimg.cc/TYtKrtR2/Flux-Dev-Create-a-serene-landscape-with-a-misty-mountain-range-1-1.jpg) no-repeat center center / cover;
+    min-height: 100vh;
+}
+.kk-5{
+    background: url(https://img.freepik.com/free-photo/card-soft-template-paper-report_1258-167.jpg?semt=ais_hybrid&w=740) no-repeat center center / cover;
+    min-height: 100vh;
+}
+.q{
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+}
+.kk-6{
+    background: url(https://i.postimg.cc/NFd4th9C/Flux-Dev-Create-an-image-of-a-menacing-totem-god-standing-in-t-2.jpg) no-repeat center center / cover;
+    min-height: 100vh;
+    padding: 20px 10%;
+}
+.xx{
+    font-size: 35px;
+    text-align: center;
+    color: red;
+}
+.kk-7{
+    background: url(https://cdn.leonardo.ai/users/7ef954d2-a2dd-4e04-9612-a38dafa9f034/generations/3831a24c-6ae0-497b-8c2b-2fa51dae149d/segments/1:4:1/Flux_Dev_Create_a_photograph_of_a_benevolent_gods_totem_pole_s_0.jpg) no-repeat center center / cover;
+    min-height: 100vh;
+}
+.jj{
+    font-size: 45px;
+    color: rgba(186, 75, 27, 0.907);
+}
+.kk-8{
+    background: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkzeXF6a3N1NXA2dHlsdHBranVuY2gzd2puczBscnhmZ2ZhY3Z6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0pPx015QeAOSPNQZNE/giphy.webp) no-repeat center center / cover;
+    min-height: 100vh; 
+}
